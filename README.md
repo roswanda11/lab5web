@@ -25,14 +25,16 @@
       <!DOCTYPE html>
       <html lang="en">
       <head>
-          <title>Mengenal JavaScript</title>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>mengenal javascript</title>
       </head>
       <body>
-          <h1>Pengenalan JavaScript</h1>
-          <h3>Contoh document.write dan console.log</h3>
+          <h1>Pengenalan javascript</h1>
+          <h3>Contoh javascript document.write</h3>
           <script>
               document.write("Hello World");
-              console.log("Hello World");
+              console.log("Hello world");
           </script>
       </body>
       </html>
@@ -43,8 +45,11 @@
 
   - Kemudian hasilnya adalah
 
-![image](https://github.com/roswanda11/lab5web/assets/115516632/e1842fc9-ab48-4232-8a8f-0b00c23bfbf0)
+![image](https://github.com/roswanda11/lab5web/assets/115516632/61b8b3ef-1194-4148-a29c-caa6edf3ed07)
 
+## Melakukan validasi dokumen html ```lab5_javascript.html``` dengan mengakses https://validator.w3.org
+
+![image](https://github.com/roswanda11/lab5web/assets/115516632/f2b7728d-6139-4f97-a5bd-4292a43a2a42)
 
 ## Javascript Dasar
 
